@@ -41,17 +41,16 @@
 |**Docs**|README와 같은 문서 수정|
 |**Rename**|파일, 폴더명 수정 혹은 이동|
 > **`태그: 영문이름-문제번호`**<br>
-예시: `Feat: sprint-1234`
+예시: `Add: sprint-1234`
 
 <br>
 
 ## 📂 Repository
 ```
 📂 week1
- ┗ 📂 이름
-    ┣ 📜 문제코드1.java
-    ┣ 📜 문제코드2.java
-    ┣ 📜 문제코드3.java
-    ┣ 📜 문제코드4.java
-    ┗ 📜 문제코드5.java
+ ┗ 📂 문제코드1
+    ┣ 📜 이름.java
+    ┣ 📜 이름.java
+    ┣ 📜 이름.java
+    ┗ 📜 이름.java
 ```
